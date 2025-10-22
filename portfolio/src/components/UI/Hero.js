@@ -91,7 +91,7 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-line"></i>
               </span>
-              I am a passionate and highly motivated full stack software
+              I am a highly motivated full stack software
               engineer with comprehensive training in a wide array of cutting
               edge technologies.
             </p>
@@ -169,7 +169,7 @@ const Hero = () => {
           >
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={2} duration={8} suffix="+" />
+                <CountUp start={0} end={3} duration={8} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[600] text-[18px]">
                 Years of Experience
@@ -185,7 +185,7 @@ const Hero = () => {
             </div>
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={9} duration={10} suffix="+" />
+                <CountUp start={0} end={10} duration={10} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[600] text-[18px]">
                 Projects
@@ -193,7 +193,7 @@ const Hero = () => {
             </div>
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={1000} duration={10} suffix="+" />
+                <CountUp start={0} end={3000} duration={10} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[700] text-[18px]">
                 Hours Spent Coding
