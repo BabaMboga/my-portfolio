@@ -193,7 +193,7 @@ const Hero = () => {
             </div>
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={3000} duration={10} suffix="+" />
+                <CountUp start={0} end={3000} duration={5} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[700] text-[18px]">
                 Hours Spent Coding
