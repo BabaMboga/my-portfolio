@@ -21,6 +21,9 @@ import gitImg from "../../assets/images/project-icons/git.svg";
 import nextImg from "../../assets/images/project-icons/nextjs.svg";
 import reduxImg from "../../assets/images/project-icons/redux.svg";
 import typescriptImg from "../../assets/images/project-icons/typescript-icon.svg";
+import bootstrapImg from "../../assets/images/project-icons/bootstrap-svgrepo-com.svg";
+import vscodeImg from "../../assets/images/project-icons/icons8-visual-studio -1000.png";
+import figmaImg from "../../assets/images/project-icons/figma-svgrepo-com.svg";
 
 const Services = () => {
   // Create an array of icon elements
@@ -40,6 +43,9 @@ const Services = () => {
     <img src={nextImg} alt="Nextjs" />,
     <img src={reduxImg} alt="Redux" />,
     <img src={typescriptImg} alt="Typescript" />,
+    <img src={bootstrapImg} alt="bootstrap" />,
+    <img src={vscodeImg} alt="visualstudio" />,
+    <img src={figmaImg} alt="figma" />,
   ];
 
   // Settings for slider component set
