@@ -91,9 +91,7 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-line"></i>
               </span>
-              I am a highly motivated full stack software
-              engineer with comprehensive training in a wide array of cutting
-              edge technologies.
+              A full-stack wizard in the making, I dive headfirst into code, armed with a toolkit of slick, modern technologies and an appetite for building cool stuff.
             </p>
 
             <div className=""></div>
