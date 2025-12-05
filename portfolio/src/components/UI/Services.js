@@ -22,7 +22,7 @@ import nextImg from "../../assets/images/project-icons/nextjs.svg";
 import reduxImg from "../../assets/images/project-icons/redux.svg";
 import typescriptImg from "../../assets/images/project-icons/typescript-icon.svg";
 import bootstrapImg from "../../assets/images/project-icons/bootstrap-svgrepo-com.svg";
-import vscodeImg from "../../assets/images/project-icons/icons8-visual-studio -1000.png";
+import vscodeImg from "../../assets/images/project-icons/icons8-visual-studio-100.svg";
 import figmaImg from "../../assets/images/project-icons/figma-svgrepo-com.svg";
 import vercelImg from "../../assets/images/project-icons/vercel-icon-svgrepo-com.svg";
 import netlifyImg from "../../assets/images/project-icons/netlify-svgrepo-com.SVG";
@@ -75,6 +75,7 @@ const Services = () => {
     <img src={npmImg} alt="npm" />,
     <img src={sqliteImg} alt="sqlite" />,
     <img src={postgresImg} alt="postgres" />,
+    <img src={postmanImg} alt="postgres" />,
     <img src={viteImg} alt="vite" />,
     <img src={windowsImg} alt="windows" />,
     <img src={anacondaImg} alt="anaconda" />,
