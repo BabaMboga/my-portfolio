@@ -24,6 +24,22 @@ import typescriptImg from "../../assets/images/project-icons/typescript-icon.svg
 import bootstrapImg from "../../assets/images/project-icons/bootstrap-svgrepo-com.svg";
 import vscodeImg from "../../assets/images/project-icons/icons8-visual-studio -1000.png";
 import figmaImg from "../../assets/images/project-icons/figma-svgrepo-com.svg";
+import vercelImg from "../../assets/images/project-icons/vercel-icon-svgrepo-com.svg";
+import netlifyImg from "../../assets/images/project-icons/netlify-svgrepo-com.SVG";
+import npmImg from "../../assets/images/project-icons/npm-svgrepo-com.svg";
+import sqliteImg from "../../assets/images/project-icons/sqlite-svgrepo-com.svg";
+import postgresImg from "../../assets/images/project-icons/icons8-postgres.svg";
+import postmanImg from "../../assets/images/project-icons/postman-icon-svgrepo-com.svg";
+import viteImg from "../../assets/images/project-icons/icons8-vite-96.png";
+import windowsImg from "../../assets/images/project-icons/windows-174-svgrepo-com.svg";
+import anacondaImg from "../../assets/images/project-icons/anaconda-svgrepo-com.svg";
+import azureImg from "../../assets/images/project-icons/azure-vms-svgrepo-com.svg";
+import linuxImg from "../../assets/images/project-icons/linux-svgrepo-com.svg";
+import blenderImg from "../../assets/images/project-icons/blender-svgrepo-com.svg";
+import cloudflareImg from "../../assets/images/project-icons/icons8-cloudflare-96.png";
+import expressImg from "../../assets/images/project-icons/icons8-express-js-96.png";
+import firebaseImg from "../../assets/images/project-icons/icons8-firebase-144.png";
+import kafkaImg from "../../assets/images/project-icons/icons8-apache-kafka-96.png";
 
 const Services = () => {
   // Create an array of icon elements
@@ -46,6 +62,21 @@ const Services = () => {
     <img src={bootstrapImg} alt="bootstrap" />,
     <img src={vscodeImg} alt="visualstudio" />,
     <img src={figmaImg} alt="figma" />,
+    <img src={vercelImg} alt="vercel" />,
+    <img src={netlifyImg} alt="netlify" />,
+    <img src={npmImg} alt="npm" />,
+    <img src={sqliteImg} alt="sqlite" />,
+    <img src={postgresImg} alt="postgres" />,
+    <img src={viteImg} alt="postman" />,
+    <img src={windowsImg} alt="postman" />,
+    <img src={anacondaImg} alt="postman" />,
+    <img src={azureImg} alt="postman" />,
+    <img src={linuxImg} alt="postman" />,
+    <img src={blenderImg} alt="postman" />,
+    <img src={cloudflareImg} alt="postman" />,
+    <img src={expressImg} alt="postman" />,
+    <img src={firebaseImg} alt="postman" />,
+    <img src={kafkaImg} alt="postman" />,
   ];
 
   // Settings for slider component set
