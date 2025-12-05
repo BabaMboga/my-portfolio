@@ -115,10 +115,7 @@ const Services = () => {
             What do I help?
           </h2>
           <p>
-            As a dedicated developer, I offer expertise in a variety of
-            technologies, specializing in frontend and backend development,
-            UI/UX design and more. My skills span a variety of technologies,
-            frameworks and libraries like:
+            I help folks turn ideas into working software -- clean, smooth & slightly spiced. Whether it's frontend magic, backend muscle, UI/UX polish or the random tech that pops up in the middle of a project, I've got the toolkit and definitely the stubbornness to make it happen.
           </p>
           <Slider
             {...sliderSettings}
@@ -156,11 +153,7 @@ const Services = () => {
                           Backend Development
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                          Building the backbone of robust applications with
-                          server-side technologies. From database management to
-                          server logic implementation, my backend development
-                          skills ensure the seamless fucntionality and
-                          performance of web applications.
+                          On the backend side, I'm basicallt the person making sure your app doesn't faint when real users show up. Databases, server logic, APIs -- all the behind-the-scenes heavy lifting that keeps everything running like a well-fed boda rider. Clean, realiable and stress-free.
                         </p>
                       </div>
                     </div>
@@ -196,11 +189,7 @@ const Services = () => {
                           UI/UX Design
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                          Crafting intuitive and visually stunning user
-                          experiences that resonate with users. From wireframes
-                          to interactive prototypes, my UI/UX design skills
-                          focus on creating engaging and user-centric digital
-                          products.
+                          When it comes to UI/UX, I design experiences that don't make users feel like they're solving a riddle. Smooth flows, thoughtful layouts & visuals that actually make sense. From sketches to clickable prototypes, I turn ideas into interfaces that feel natural and not like homework.
                         </p>
                       </div>
                     </div>
@@ -236,10 +225,7 @@ const Services = () => {
                           Frontend Development
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                          Transforming designs into pixel-perfect, user-friendly
-                          interfaces using cutting-edge technologies. Elevate
-                          the user experience through responsive and visually
-                          appealing frontend development.
+                          Frontend is where I try to flex - taking designs and turning them into crisp, responsive interfaces that behave themselves on every screen size. If it sparkles, slides, loads fast & makes the user smile a bit if not a lot... chances are I built it.
                         </p>
                       </div>
                     </div>
@@ -275,11 +261,7 @@ const Services = () => {
                           Agile Methodology
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                          Embracing an agile approach to project management,
-                          ensuring flexibility and collaboration. Iterative
-                          develpoment cycles, constant communication, and
-                          adaptability are key aspects of my methodology,
-                          resulting in succesful and client-centric outcomes.
+                          I work with an agile mindset - small updates, constant feedback, zero drama. No vanishing for 3 months then returning with a mystery project. Just steady progress, clear communication and building things the client actually wants... never what the developer assumed at 2 a.m.
                         </p>
                       </div>
                     </div>
