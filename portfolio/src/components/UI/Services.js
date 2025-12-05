@@ -25,7 +25,7 @@ import bootstrapImg from "../../assets/images/project-icons/bootstrap-svgrepo-co
 import vscodeImg from "../../assets/images/project-icons/icons8-visual-studio-100.svg";
 import figmaImg from "../../assets/images/project-icons/figma-svgrepo-com.svg";
 import vercelImg from "../../assets/images/project-icons/vercel-icon-svgrepo-com.svg";
-import netlifyImg from "../../assets/images/project-icons/netlify-svgrepo-com.SVG";
+import netlifyImg from "../../assets/images/project-icons/netlify-svgrepo-com.svg";
 import npmImg from "../../assets/images/project-icons/npm-svgrepo-com.svg";
 import sqliteImg from "../../assets/images/project-icons/sqlite-svgrepo-com.svg";
 import postgresImg from "../../assets/images/project-icons/icons8-postgres.svg";
