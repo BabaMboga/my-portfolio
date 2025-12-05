@@ -40,6 +40,14 @@ import cloudflareImg from "../../assets/images/project-icons/icons8-cloudflare-9
 import expressImg from "../../assets/images/project-icons/icons8-express-js-96.png";
 import firebaseImg from "../../assets/images/project-icons/icons8-firebase-144.png";
 import kafkaImg from "../../assets/images/project-icons/icons8-apache-kafka-96.png";
+import prismaImg from "../../assets/images/project-icons/prisma-svgrepo-com.svg";
+import nginxImg from "../../assets/images/project-icons/nginx-logo-svgrepo-com.svg";
+import nodejsImg from "../../assets/images/project-icons/nodejs01-svgrepo-com.svg";
+import dockerImg from "../../assets/images/project-icons/docker-svgrepo-com.svg";
+import pnpmImg from "../../assets/images/project-icons/light-pnpm-svgrepo-com.svg";
+import powershellImg from "../../assets/images/project-icons/powershell2-svgrepo-com.svg";
+import stackOverFlowImg from "../../assets/images/project-icons/stackoverflow-color-svgrepo-com.svg";
+import svgImg from "../../assets/images/project-icons/svg-svgrepo-com.svg";
 
 const Services = () => {
   // Create an array of icon elements
@@ -67,16 +75,24 @@ const Services = () => {
     <img src={npmImg} alt="npm" />,
     <img src={sqliteImg} alt="sqlite" />,
     <img src={postgresImg} alt="postgres" />,
-    <img src={viteImg} alt="postman" />,
-    <img src={windowsImg} alt="postman" />,
-    <img src={anacondaImg} alt="postman" />,
-    <img src={azureImg} alt="postman" />,
-    <img src={linuxImg} alt="postman" />,
-    <img src={blenderImg} alt="postman" />,
-    <img src={cloudflareImg} alt="postman" />,
-    <img src={expressImg} alt="postman" />,
-    <img src={firebaseImg} alt="postman" />,
-    <img src={kafkaImg} alt="postman" />,
+    <img src={viteImg} alt="vite" />,
+    <img src={windowsImg} alt="windows" />,
+    <img src={anacondaImg} alt="anaconda" />,
+    <img src={azureImg} alt="azure" />,
+    <img src={linuxImg} alt="linux" />,
+    <img src={blenderImg} alt="blender" />,
+    <img src={cloudflareImg} alt="cloudflare" />,
+    <img src={expressImg} alt="express" />,
+    <img src={firebaseImg} alt="firebase" />,
+    <img src={kafkaImg} alt="kafka" />,
+    <img src={prismaImg} alt="prisma" />,
+    <img src={nginxImg} alt="nginx" />,
+    <img src={nodejsImg} alt="nodejs" />,
+    <img src={dockerImg} alt="docker" />,
+    <img src={pnpmImg} alt="pnpm" />,
+    <img src={powershellImg} alt="powershell" />,
+    <img src={stackOverFlowImg} alt="stackOverFlow" />,
+    <img src={svgImg} alt="svg" />,
   ];
 
   // Settings for slider component set
