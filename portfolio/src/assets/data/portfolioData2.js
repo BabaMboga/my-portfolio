@@ -12,10 +12,11 @@ import portfolioImg11 from "../images/portfolio-images/uplift-screenshot.png";
 import portfolioImg12 from "../images/portfolio-images/tyc-screenshot.png";
 import portfolioImg13 from "../images/portfolio-images/dm-portfolio-screenshot.png";
 import portfolioImg14 from "../images/portfolio-images/airquality-screenshot.png";
+import portfolioImg15 from "../images/portfolio-images/image-gallery-screenshot.png";
 
 const portfolios = [
     {
-        id: "14",
+        id: "15",
         imgUrl: portfolioImg14,
         category: "Capstone",
         title: "Airquality Portal",
@@ -23,7 +24,7 @@ const portfolios = [
         technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
         siteUrl: " https://airquality.nairobi.go.ke",
     },{
-        id: "13",
+        id: "14",
         imgUrl: portfolioImg13,
         category: "Capstone",
         title: "Digital Marketer Portfolio",
@@ -31,13 +32,21 @@ const portfolios = [
         technologies: ["Vite"],
         siteUrl: " https://patriciasportfolio.netlify.app/",
     },{
-        id: "12",
+        id: "13",
         imgUrl: portfolioImg12,
         category: "Capstone",
         title: "TYC Africa Trust",
         description: "TYC AFRICA Trust is dedicated to supporting youth development through various programs and initiatives. This website serves as a platform to share information about the organization's mission, upcoming events, programs, and provides a way for individuals to get involved and contact the organization.",
         technologies: ["NextJs"],
         siteUrl: "https://tycafricatrust.org/",
+    },{
+        id: "12",
+        imgUrl: portfolioImg15,
+        category: "Intermediate",
+        title: "Image Gallery App",
+        description: "This is a simple, responsive Image Gallery web application built with React. It fetches a list of images from a remote API and displays them in a flexible gallery layout. The app dynamically loads images and presents them in a grid, making it easy for users to view multiple photos at once.",
+        technologies: ["React.Js","Axios"],
+        siteUrl: "https://image-gallery-app-tau-weld.vercel.app/",
     },{
         id: "11",
         imgUrl: portfolioImg11,
