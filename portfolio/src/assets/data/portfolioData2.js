@@ -8,14 +8,51 @@ import portfolioImg07 from "../images/portfolio-images/portfolio-07.png";
 import portfolioImg08 from "../images/portfolio-images/portfolio-08.png";
 import portfolioImg09 from "../images/portfolio-images/portfolio-09.png";
 import portfolioImg10 from "../images/portfolio-images/portfolio-10.png";
+import portfolioImg11 from "../images/portfolio-images/uplift-screenshot.png";
+import portfolioImg12 from "../images/portfolio-images/tyc-screenshot.png";
+import portfolioImg13 from "../images/portfolio-images/dm-portfolio-screenshot.png";
+import portfolioImg14 from "../images/portfolio-images/airquality-screenshot.png";
 
 const portfolios = [
+    {
+        id: "14",
+        imgUrl: portfolioImg14,
+        category: "Capstone",
+        title: "Airquality Portal",
+        description: "The Nairobi Air Quality Portal is a real-time, open-access platform managed by Nairobi City County. It tracks air pollution levels across the city using a network of sensors, displaying current air-quality index (AQI) readings — from “Good” to “Hazardous” — by location. The portal offers interactive maps, historical air-quality trends, health advisories, and timely alerts so residents, researchers and policymakers can monitor air pollution, protect public health, and make informed decisions.",
+        technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
+        siteUrl: " https://project-adventour.vercel.app/",
+    },{
+        id: "13",
+        imgUrl: portfolioImg13,
+        category: "Capstone",
+        title: "Digital Marketer Portfolio",
+        description: "Advetour is an application that provides travel-related information to customers acting like an easy access tour guide that tells you where to go, what to see and where to eat. It offers the user a chance to plan their trips at moments notice without having to access too maney materials for the perfect site within Nairobi.",
+        technologies: ["Vite"],
+        siteUrl: " https://patriciasportfolio.netlify.app/",
+    },{
+        id: "12",
+        imgUrl: portfolioImg12,
+        category: "Capstone",
+        title: "TYC Africa Trust",
+        description: "TYC AFRICA Trust is dedicated to supporting youth development through various programs and initiatives. This website serves as a platform to share information about the organization's mission, upcoming events, programs, and provides a way for individuals to get involved and contact the organization.",
+        technologies: ["NextJs"],
+        siteUrl: "https://tycafricatrust.org/",
+    },{
+        id: "11",
+        imgUrl: portfolioImg11,
+        category: "Capstone",
+        title: "Uplift",
+        description: "Uplift is a dynamic and user-centric platform that brings together individuals, charities and donors to create a positive impact on society. Our platform provides a seamless way for users to contribute to causes they care about, whether it's supporting local charities, making donations, or assisting beneficiaries in need.",
+        technologies: ["React", "Flask","SQLite"],
+        siteUrl: " https://up-lift-kappa.vercel.app/",
+    },
     {
         id: "10",
         imgUrl: portfolioImg10,
         category: "Capstone",
         title: "Adventour",
-        description: "Advetour is an application that provides travel-related information to customers acting like an easy access tour guide that tells you where to go, what to see and where to eat. It offers the user a chance to plan their trips at moments notice without having to access too maney materials for the perfect site within Nairobi.",
+        description: "Adventour is an application that provides travel-related information to customers acting like an easy access tour guide that tells you where to go, what to see and where to eat. It offers the user a chance to plan their trips at moments notice without having to access too maney materials for the perfect site within Nairobi.",
         technologies: ["React"],
         siteUrl: " https://project-adventour.vercel.app/",
     },
