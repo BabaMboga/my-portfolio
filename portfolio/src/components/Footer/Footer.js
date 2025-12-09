@@ -24,11 +24,7 @@ const Footer = () => {
 
           <div className="w-full sm:w-1/2">
             <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
-              As a seasoned full stack software engineer, I specialise in
-              creating cutting-edge solutions that blend creativity with
-              technology. My portfolio showcases a diverse range of projects.
-              Let's collaborate and bring yourideas to life! Connect with me
-              using the form above or explore my work in the portfolio section.
+              As a full-stack engineer who's always hands-on, I build clean, sharp and reliable solutions that just work. My projects cut accross different areas, each showing how I turn ideas into real, working products. If you've got something in mind, let's team up and make it happen. Hit me up through the form above or check out my portfolio and see what I have been cooking.
             </p>
             <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10">
               <span className="text-gray-300 font-[600] text-[15px]">
