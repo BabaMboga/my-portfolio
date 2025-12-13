@@ -41,7 +41,7 @@ section {
 
 /* Additional css for the carousel */
 .slick-slider{
-    width: 100%;
+    width: 50%;
     margin: 0 auto;
 }
 /* Adjust slider item width for smaller screens */
