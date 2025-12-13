@@ -123,7 +123,7 @@ const Header = () => {
 
             <button
               className="flex items-center gap-2 text-smallTextColor font-[600] border border-solid
-            border-smallTextColor py-2 px-4 rounded-[8px] max-h-[40px] hover:bg-smallTextColor
+            border-smallTextColor py-2 px-4 rounded-[8px] leading-none hover:bg-smallTextColor
             hover:text-white hover:font-[500] ease-in duration-[300]"
             >
               <i class="ri-mail-send-line"></i>Let's Talk
