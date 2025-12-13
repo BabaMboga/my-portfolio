@@ -1,5 +1,5 @@
 import React from "react";
-import heroImg from "../../assets/images/hero-removebg.png";
+import heroImg from "../../assets/images/hero-removebg2.png";
 import CountUp from "react-countup";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 
