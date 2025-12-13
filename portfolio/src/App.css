@@ -41,13 +41,13 @@ section {
 
 /* Additional css for the carousel */
 .slick-slider{
-    width: 45%;
+    width: 50%;
     margin: 0 auto;
 }
 /* Adjust slider item width for smaller screens */
 .slick-slide {
-    width: 60%;
-    margin: 0 auto;
+    display: flex !important;
+    justify-content: center;
 }
 
 /* Adjust slider arrows for smaller screens */
@@ -136,6 +136,10 @@ section {
 
     .show__menu{
         display: block;
+    }
+
+    .slick-slider{
+        width: 100%;
     }
         
 }
