@@ -24,6 +24,24 @@ const portfolios = [
         technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
         siteUrl: " https://airquality.nairobi.go.ke",
     },{
+    
+        id: "15",
+        imgUrl: portfolioImg14,
+        category: "Capstone",
+        title: "Airquality Portal",
+        description: "The Nairobi Air Quality Portal is a real-time, open-access platform managed by Nairobi City County. It tracks air pollution levels across the city using a network of sensors, displaying current air-quality index (AQI) readings — from “Good” to “Hazardous” — by location. The portal offers interactive maps, historical air-quality trends, health advisories, and timely alerts so residents, researchers and policymakers can monitor air pollution, protect public health, and make informed decisions.",
+        technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
+        siteUrl: " https://airquality.nairobi.go.ke",
+    },{
+    
+        id: "15",
+        imgUrl: portfolioImg14,
+        category: "Capstone",
+        title: "Airquality Portal",
+        description: "The Nairobi Air Quality Portal is a real-time, open-access platform managed by Nairobi City County. It tracks air pollution levels across the city using a network of sensors, displaying current air-quality index (AQI) readings — from “Good” to “Hazardous” — by location. The portal offers interactive maps, historical air-quality trends, health advisories, and timely alerts so residents, researchers and policymakers can monitor air pollution, protect public health, and make informed decisions.",
+        technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
+        siteUrl: " https://airquality.nairobi.go.ke",
+    },{
         id: "14",
         imgUrl: portfolioImg13,
         category: "Capstone",
