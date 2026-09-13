@@ -13,16 +13,36 @@ import portfolioImg12 from "../images/portfolio-images/tyc-screenshot.png";
 import portfolioImg13 from "../images/portfolio-images/dm-portfolio-screenshot.png";
 import portfolioImg14 from "../images/portfolio-images/airquality-screenshot.png";
 import portfolioImg15 from "../images/portfolio-images/image-gallery-screenshot.png";
+import portfolioImg16 from "../images/portfolio-images/stelvy-screenshot.png"
+import portfolioImg17 from "../images/portfolio-images/gedost-screenshot.png"
 
 const portfolios = [
     {
-        id: "15",
+        id: "17",
         imgUrl: portfolioImg14,
         category: "Capstone",
         title: "Airquality Portal",
         description: "The Nairobi Air Quality Portal is a real-time, open-access platform managed by Nairobi City County. It tracks air pollution levels across the city using a network of sensors, displaying current air-quality index (AQI) readings — from “Good” to “Hazardous” — by location. The portal offers interactive maps, historical air-quality trends, health advisories, and timely alerts so residents, researchers and policymakers can monitor air pollution, protect public health, and make informed decisions.",
-        technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL"],
+        technologies: ["Next.Js", "Node.Js","Express.Js", "Firebase","Prisma", "Axios", "PostgreSQL", "TypeSCript"],
         siteUrl: " https://airquality.nairobi.go.ke",
+    },{
+    
+        id: "16",
+        imgUrl: portfolioImg17,
+        category: "Capstone",
+        title: "GeDost Procurement Agency",
+        description: "GE-DOST is a procurement agency website designed to showcase the company’s procurement services and connect clients with reliable suppliers. The platform presents GE-DOST’s business offerings, helping individuals and organizations explore procurement solutions, learn about the agency, and get in touch for their procurement needs. With a professional and accessible web interface, the website strengthens the agency’s online presence and makes it easier for potential clients to engage with its services.",
+        technologies: ["Vite"],
+        siteUrl: "https://ge-dost.vercel.app/",
+    },{
+    
+        id: "15",
+        imgUrl: portfolioImg16,
+        category: "Capstone",
+        title: "Stelvy Logistics",
+        description: "Stelvey Logistics is a logistics company website designed to showcase the company’s services, strengthen its online presence, and provide customers with an accessible way to learn about its logistics solutions. The website presents the company’s brand, services, and business information through a modern web interface, helping potential clients connect with Stelvey Logistics and explore its offerings.",
+        technologies: ["Vite"],
+        siteUrl: "https://stelvey-logistics.vercel.app/",
     },{
         id: "14",
         imgUrl: portfolioImg13,
@@ -37,7 +57,7 @@ const portfolios = [
         category: "Capstone",
         title: "TYC Africa Trust",
         description: "TYC AFRICA Trust is dedicated to supporting youth development through various programs and initiatives. This website serves as a platform to share information about the organization's mission, upcoming events, programs, and provides a way for individuals to get involved and contact the organization.",
-        technologies: ["NextJs"],
+        technologies: ["NextJs", "TypeScript"],
         siteUrl: "https://tycafricatrust.org/",
     },{
         id: "12",
